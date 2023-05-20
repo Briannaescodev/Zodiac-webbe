@@ -1,0 +1,177 @@
+
+[  
+    {
+        "id": 1,
+        "sign": "aries",
+        "img-1" : "/images/aries-money.jpg" ,
+        "img-2" : "/images/aries-travel.jpg",
+        "img-3" : "/images/aries-angelnumber.jpg",
+        "img-4" : "/images/aries-element.jpg",
+        "img-5" : "/images/aries-love.jpg",
+        "img-6" : "/images//ariesAI.png",
+        "img-7" : "/images/ariestwitter.jpg",
+        "img-8" : "/images/aries.jpg",
+        "affirm-1-text": "Now is not the time to be afraid of change."
+    } ,
+
+    {
+        "id": 2,
+        "sign": "sagittarius",
+        "img-1" : "/images/sagfitness.png" ,
+        "img-2" : "/images/saginspo.png",
+        "img-3" : "/images/saglove.png",
+        "img-4" : "/images/sagmoney.png",
+        "img-5" : "/images/sagoutdoor.png",
+        "img-6" : "/images/sagpic.png",
+        "img-7" : "/images/sagrelax.png",
+        "img-8" : "/images/sagsign.png",
+        "img-9" : "/images/sagsocial.png",
+        "affirm-1-text": "Due to your successful communication skills, people are recognizing that you are the real deal. "
+    },     
+
+    {
+        "id": 3,
+        "sign": "capricorn",
+        "img-1" : "/images/capbook.png" ,
+        "img-2" : "/images/capbubble.png",
+        "img-3" : "/images/caplove.png",
+        "img-4" : "/images/capsign.png",
+        "img-5" : "/imagescapstudy.png",
+        "img-6" : "/images/capsi.jpg",
+        "img-7" : "/images/capdragon.jpg",
+        "img-8" : "/images/capbus.png",
+        "affirm-1-text": "It's time that you learn to manage your emotions better. There has been a lot of instability when it comes to you and your feelings."
+       
+    },     
+
+    {
+        "id": 4,
+        "sign": "aquarius",
+        "img-1" : "/images/aqua-element.png" ,
+        "img-2" : "/images/aquafamily.png",
+        "img-3" : "/images/aquafood.png",
+        "img-4" : "/images/aquafridge.png",
+        "img-5" : "/images/aquagoals.png",
+        "img-6" : "/images/aquahealing.png",
+        "img-7" : "/images/aquapaitning.png",
+        "img-8" : "/images/aquapurple.png",
+        "img-9" : "/images/aquasign.png",
+        "affirm-1-text": "It would be good for you if you spend some time with family. "
+    },     
+
+    {
+        "id": 5,
+        "sign": "libra",
+        "img-1" : "/images/libra111.png" ,
+        "img-2" : "/images/libra222.png",
+        "img-3" : "/images/libra777.png",
+        "img-4" : "/images/libracolor.png",
+        "img-5" : "/images/librainspo.png",
+        "img-6" : "/images/libramanifest.png",
+        "img-7" : "/images/librareminder.png",
+        "img-8" : "/images/libraretro.png",
+        "img-9" : "/images/librasign.png",
+        "affirm-1-text": "Honey and sugar are enough to lure you today. As pleased as you will be, you will be emotionally placid today."
+    },    
+
+    {
+        "id": 6,
+        "sign": "scorpio",
+        "img-1" : "/images/public/images/sagsocial.png" ,
+        "img-2" : "/images/public/images/scopiocup.png",
+        "img-3" : "/images/public/images/scopirotext.png",
+        "img-4" : "/images/public/images/scopriolove.png",
+        "img-5" : "/images/public/images/scopriosign.png",
+        "img-6" : "/images/public/images/scopriosymbol.png",
+        "img-7" : "/images/public/images/scopriotext.png",
+        "img-8" : "/images/public/images/scopriowater.png",
+        "img-9" : "/images/public/images/scorpiobeach.png",
+        "affirm-1-text": "A day that can mark some changes and with a bit of luck the changes will be effective for your finances. "
+    },
+
+    {
+        "id": 7,
+        "sign": "virgo",
+        "img-1" : "/images/public/images/virgo444.png" ,
+        "img-2" : "/images/public/images/virgolove.png",
+        "img-3" : "/images/public/images/virgoplate.png.png",
+        "img-4" : "/images/public/images/virgorealx.png.png",
+        "img-5" : "/images/public/images/virgosign.png.png",
+        "img-6" : "/images/public/images/virgostudy.png.png",
+        "img-7" : "/images/public/images/virgotag.png.png",
+        "img-8" : "/images/public/images/virgotext.png.png",
+        "img-9" : "/images/public/images/virgouniverse.png.png",
+        "affirm-1-text": "Acknowledge what you feel when you feel it, and use that clarity as the basis for your decisions and interactions with others."
+    }  ,   
+    {
+        "id": 8,
+        "sign": "pisces",
+        "img-1" : "/images/piscesinspo.png",
+        "img-2" : "/images/pisceskiss.png",
+        "img-3" : "/images/pisceslove.png",
+        "img-4" : "/images/piscesmedow.png",
+        "img-5" : "/images/piscesmoney.png",
+        "img-6" : "/images/piscespond.png",
+        "img-7" : "/images/piscessign.png",
+        "img-8" : "/images/piscesspon.png",
+        "img-9" : "/images/piscestext.png",
+        "affirm-1-text": "While old ties are broken, new roots have not yet been set down, and you feel in a state of flux, and while this can be disconcerting, it is also inspiring as you feel that there is great potential there waiting to be tapped."
+    }   ,
+    {
+        "id": 9,
+        "sign": "gemini",
+        "img-1" : "/images/geminibook.png" ,
+        "img-2" : "/images/geminicat.png",
+        "img-3" : "/images/geminicolor.png",
+        "img-4" : "/images/geminilove.png",
+        "img-5" : "/images/geminipeace.png",
+        "img-6" : "/images/geminipink.png",
+        "img-7" : "/images/geminisign.png",
+        "img-8" : "/images/geministudy.png",
+        "img-9" : "/images/geminitomb.png",
+        "affirm-1-text": "Sometimes you need to tell yourself how great you are."
+    }   ,
+    {
+        "id": 10,
+        "sign": "leo",
+        "img-1" : "/images/public/images/leo-sign-pic.png",
+        "img-2" : "/images/public/images/leobook.png",
+        "img-3" : "/images/public/images/leogreen.png",
+        "img-4" : "/images/public/images/leohighlight.png",
+        "img-5" : "/images/public/images/leoillistration.png",
+        "img-6" : "/images/public/images/leolove.png",
+        "img-7" : "/images/public/images/leoneon.png",
+        "img-8" : "/images/public/images/leothreadtext.png",
+        "img-9" : "/images/public/images/leotwitter.png",
+        "affirm-1-text": "A great opportunity for new and exciting connections is expected for today, so keep and open mind and be more sociable. Although the past has seen some downs, this does not mean that you might stop trying, true love is more about perseverance than luck."
+    }   ,
+    {
+        "id": 11,
+        "sign": "cancer",
+        "img-1" : "/images/public/images/cancerbook.png" ,
+        "img-2" : "/images/public/images/cancerboundary.png",
+        "img-3" : "/images/public/images/cancerinspo.png",
+        "img-4" : "/images/public/images/cancerlove.png",
+        "img-5" : "/images/public/images/cancermoto.png",
+        "img-6" : "/imagespublic/images/cancersing.png",
+        "img-7" : "/images/public/images/cancerstudy.png",
+        "img-8" : "/images/public/images/cancerteen.png",
+        "img-9" : "/images/public/images/cancertext.png",
+        "affirm-1-text": "In times of hardship, your relationship grows stronger and stronger. "
+    }   ,
+    {
+        "id": 12,
+        "sign": "taurus",
+        "img-1" : "/images/public/images/taurus33.png" ,
+        "img-2" : "/images/public/images/taurusbook.png",
+        "img-3" : "/images/public/images/taurusbug.png",
+        "img-4" : "/images/public/images/tauruselemnt.png",
+        "img-5" : "/images/public/images/taurusflower.png",
+        "img-6" : "/images/public/images/taurushealing.png",
+        "img-7" : "/images/public/images/tauruslovley.png",
+        "img-8" : "/images/public/images/taurusplants.png",
+        "img-9" : "/images/public/images/taurustext.png",
+        "affirm-1-text": "You have seen some great times and you have seen some bad times. Luckily, you are strong enough to get through it all."
+    }   
+]
+   
